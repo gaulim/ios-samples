@@ -2,7 +2,7 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:/Users/gaulim/PROJECT/ios-samples/index/index.xcodeproj">
+      location = "group:index/index.xcodeproj">
    </FileRef>
    <FileRef
       location = "group:ar/ar.xcodeproj">
